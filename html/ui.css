@@ -1,0 +1,15 @@
+
+#container {
+    position: absolute;
+    bottom: 1.0em;
+    left: 82.5em;
+    display: none;
+    height: 100px;
+    width: 100px;
+}
+
+#wheels {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
